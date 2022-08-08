@@ -1,0 +1,14 @@
+# local env files
+.env* 
+
+# files
+
+*.css
+*.js
+
+
+
+# misc
+.vscode
+
+# can also add a folder to the ignore list by adding a line like this: /folder_name
